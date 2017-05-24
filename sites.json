@@ -84,5 +84,17 @@
         "cv"                  : "/cv/Resume/CreateResume",
         "fileInput"           : "#fuUploadFromMyComputer",
         "uploadSuccessPage"   : ".form-container-resume-settings-page"
+    },
+    "uk.dice.com" : {
+        "url"                 : "https://uk.dice.com",
+        "lastpass"            : false,
+        "loginUrl"            : "https://uk.dice.com/index.php?Mode=CandidateLogin&Message=&FromMode=CandidateSignUpCvdb&lang=en",
+        "loginForm"           : "#CandidateLoginForm",
+        "userInput"           : "#CandidateEmail",
+        "passInput"           : "#CandidatePassword",
+        "loginButton"         : "#SubmitLogin",
+        "cv"                  : "/index.php?Mode=EditAccountFiles&amp;jbeSource=21&amp;lang=en",
+        "fileInput"           : "#CvUpload",
+        "saveCvButton"        : "#UploadFilesSubmit"
     }
 }
